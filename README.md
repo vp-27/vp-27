@@ -3,13 +3,9 @@
 Full-stack developer building clean, usable software.
 CS student at Rutgers — shipping side projects in between.
 
----
-
 ## Tech stack
 
 [![Skills](https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,vercel&theme=light)](https://skillicons.dev)
-
----
 
 ## Projects
 
@@ -20,7 +16,6 @@ CS student at Rutgers — shipping side projects in between.
 | [HealthExpress](https://github.com/vp-27/HealthExpress) | AI-powered health care agent |
 | [perkopoly](https://github.com/vp-27/perkopoly) | TypeScript project (WIP) |
 
----
 
 ## Connect
 
