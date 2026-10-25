@@ -14,5 +14,5 @@ I like building software that's useful enough to keep using. Lately that's meant
 
 [![Tech stack](https://skillicons.dev/icons?i=python,java,js,ts,swift,react,fastapi,postgres,supabase,docker,aws&theme=light)](https://skillicons.dev)
 
-SQL · Supabase · MCP
+SQL · MCP
 
