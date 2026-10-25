@@ -1,4 +1,4 @@
-# Hi, I'm Vandan.
+# Hi, I'm Vandan 👋
 
 CS, Finance, and Data Science at Rutgers — graduating May 2027.
 
@@ -12,6 +12,8 @@ I like building software that's useful enough to keep using. Lately that's meant
 
 ### Tools
 
-Python · TypeScript/JavaScript · Swift · SQL · React · FastAPI · Supabase · MCP
+[![Tech stack](https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,html,css&theme=light)](https://skillicons.dev)
+
+Swift · SQL · FastAPI · Supabase · MCP
 
 [LinkedIn](https://www.linkedin.com/in/vandan-patel-vp/) · [Public projects](https://github.com/vp-27?tab=repositories)
