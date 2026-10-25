@@ -12,8 +12,7 @@ I like building software that's useful enough to keep using. Lately that's meant
 
 ### Tools
 
-[![Tech stack](https://skillicons.dev/icons?i=python,java,js,ts,swift,react,fastapi,postgres,docker,aws&theme=light)](https://skillicons.dev)
+[![Tech stack](https://skillicons.dev/icons?i=python,java,js,ts,swift,react,fastapi,postgres,supabase,docker,aws&theme=light)](https://skillicons.dev)
 
 SQL · Supabase · MCP
 
-[LinkedIn](https://www.linkedin.com/in/vandan-patel-vp/) · [Public projects](https://github.com/vp-27?tab=repositories)
